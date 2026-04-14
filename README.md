@@ -1,4 +1,4 @@
-# 🚀 Food Subsidy Optimization & Forecasting System
+# 🚀 Food Subsidy Optimization & Forecasting System.
 
 🧠 Optimized using Bio-Inspired Algorithms (AIS, CSA, PSO)
 
